@@ -11,17 +11,17 @@ Here are some of the projects I'm currently working on:
    - **Description:** A project focused on automating backups, email alerts, and deployments for a cloud-based application using ELK Stack, AWS SES, and Jenkins.
    - **Technologies Used:** ELK Stack, AWS SES, MongoDB, Jenkins, Python
 
-### 2. [PetStore API](https://github.com/your-repository-link)
-   - **Description:** REST API for managing a pet store system using Python Flask.
-   - **Technologies Used:** Python, Flask, REST APIs
+### 2. [AppiGo / Applova](https://github.com/your-repository-link)
+   - **Description:** E-commerce website with CI/CD pipelines, automation, and cloud deployments.
+   - **Technologies Used:** AWS, Ansible, Jenkins, Docker
 
 ### 3. [VNF API](https://github.com/your-repository-link)
    - **Description:** A Virtual Network Function (VNF) API to manage network services and resources.
    - **Technologies Used:** Python, API Design
 
-### 4. [AppiGo / Applova](https://github.com/your-repository-link)
-   - **Description:** E-commerce website with CI/CD pipelines, automation, and cloud deployments.
-   - **Technologies Used:** AWS, Ansible, Jenkins, Docker
+### 4. [PetStore API](https://github.com/your-repository-link)
+   - **Description:** REST API for managing a pet store system using Python Flask.
+   - **Technologies Used:** Python, Flask, REST APIs
 
 ## 🛠️ Languages & Technologies
 Here are the technologies I work with regularly:
@@ -42,7 +42,7 @@ Here are the technologies I work with regularly:
    - GitLab CI/CD, REST APIs, Flask, Virtual Network Functions (VNF), Linux, Shell Scripting
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
-- Email: [Your Email](mailto:your-email@example.com)
+- LinkedIn: [pubudu de alwis]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/pubudu-de-alwis-40ba44122/))
+- Email: [kkpdealwis93@gmail.com](mailto:kkpdealwis93@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch.
