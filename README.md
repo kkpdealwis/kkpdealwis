@@ -27,7 +27,7 @@ Here are some of the projects I have worked on:
 Here are the technologies I work with regularly:
 
 - **Programming Languages:**  
-   - Python, JavaScript, Bash
+   - Python, Java, Bash, Groovy, HTML, CSS
 
 - **DevOps & Cloud:**  
    - Docker, Jenkins, Kubernetes, AWS (EC2, SES, Secrets Manager)
