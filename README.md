@@ -7,19 +7,19 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and Developer, wi
 ## 🚀 Current Projects
 Here are some of the projects I have worked on:
 
-### 1. [PayByCar (PBC)](https://github.com/Verdeva)
+### 1. [PayByCar (PBC) - Aeturnum](https://github.com/Verdeva)
    - **Description:** A project focused on automating backups, email alerts, and deployments for a cloud-based application using ELK Stack, AWS SES, and Jenkins.
    - **Technologies Used:** ELK Stack, AWS SES, MongoDB, Jenkins, Python
 
-### 2. [AppiGo / Applova](https://github.com/your-repository-link)
+### 2. [AppiGo / Applova - Hsenid](https://github.com/your-repository-link)
    - **Description:** E-commerce website with CI/CD pipelines, automation, and cloud deployments.
    - **Technologies Used:** AWS, Ansible, Jenkins, Docker
 
-### 3. [VNF API](https://github.com/your-repository-link)
+### 3. [VNF API -  Hsenid](https://github.com/your-repository-link)
    - **Description:** A Virtual Network Function (VNF) API to manage network services and resources.
    - **Technologies Used:** Python, API Design
 
-### 4. [PetStore API](https://github.com/your-repository-link)
+### 4. [PetStore API - Hsenid](https://github.com/your-repository-link)
    - **Description:** REST API for managing a pet store system using Python Flask.
    - **Technologies Used:** Python, Flask, REST APIs
 
