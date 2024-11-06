@@ -49,6 +49,8 @@ Here are some certifications that showcase my skills and knowledge:
 
 - [**AWS Cloud Practitioner**](https://www.credly.com/badges/395f0f60-6de7-41e2-ac66-4030a420a80d/public_url)    
 - [**AWS re/Start Graduate**](https://www.credly.com/badges/cd3b292a-f0e5-4686-926f-d58006699ec7/public_url)
+- [**AWS Cloud Quest: Cloud Practitioner**](https://www.credly.com/badges/263ac5b8-08c9-4766-9dbb-a1ef7d160325/public_url)
+- [**AWS Cloud Quest: Solutions Architect**](https://www.credly.com/badges/71149cc7-8196-4ae2-ba1f-b55d30066eeb/public_url)
 - **ISC2- CC**
 - **DevOps Foundations (LinkedIn Learning)**  
 - **Python for Data Science and Machine Learning (Udemy)**  
