@@ -43,6 +43,10 @@ Here are the technologies I work with regularly:
 
 - **Others:**  
    - GitLab CI/CD, REST APIs, Flask, Virtual Network Functions (VNF), Linux, Shell Scripting
+
+## 🎓 Education
+- **Bachelor's Degree in Computer System and Network Engineering**  
+   [Sri Lanka Institute of Information Technology] – [2023 March]
  
 ## 🎓 Certifications
 Here are some certifications that showcase my skills and knowledge:
