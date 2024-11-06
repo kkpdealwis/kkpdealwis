@@ -30,13 +30,16 @@ Here are the technologies I work with regularly:
    - Python, Java, Bash, Groovy, HTML, CSS
 
 - **DevOps & Cloud:**  
-   - Docker, Jenkins, Kubernetes, AWS (EC2, SES, Secrets Manager)
+   - Docker, Jenkins, Kubernetes, AWS (EC2, SES, Secrets Manager), OCI (VCN, Instances)
 
 - **Automation & Infrastructure:**  
    - Ansible, Terraform
 
 - **Databases & Logs:**  
-   - MongoDB, ELK Stack, PostgreSQL
+   - MongoDB, ELK Stack, PostgreSQL, MySQL
+ 
+- **Observability**
+  - Grafana, New Relic, ELK, Cloudwatch
 
 - **Others:**  
    - GitLab CI/CD, REST APIs, Flask, Virtual Network Functions (VNF), Linux, Shell Scripting
