@@ -42,7 +42,7 @@ Here are the technologies I work with regularly:
    - GitLab CI/CD, REST APIs, Flask, Virtual Network Functions (VNF), Linux, Shell Scripting
 
 ## 📫 How to Reach Me
-- LinkedIn: [pubudu de alwis]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/pubudu-de-alwis-40ba44122/))
+- LinkedIn: [pubudu de alwis](https://www.linkedin.com/in/pubudu-de-alwis-40ba44122/)
 - Email: [kkpdealwis93@gmail.com](mailto:kkpdealwis93@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch.
