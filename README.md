@@ -43,6 +43,15 @@ Here are the technologies I work with regularly:
 
 - **Others:**  
    - GitLab CI/CD, REST APIs, Flask, Virtual Network Functions (VNF), Linux, Shell Scripting
+ 
+## 🎓 Certifications
+Here are some certifications that showcase my skills and knowledge:
+
+- **AWS Cloud Practitioner**  
+- **ISC2- CC**  
+- [**AWS re/Start Graduate**](https://www.credly.com/badges/cd3b292a-f0e5-4686-926f-d58006699ec7/public_url)
+- **DevOps Foundations (LinkedIn Learning)**  
+- **Python for Data Science and Machine Learning (Udemy)**  
 
 ## 📫 How to Reach Me
 - LinkedIn: [pubudu de alwis](https://www.linkedin.com/in/pubudu-de-alwis-40ba44122/)
