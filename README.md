@@ -47,9 +47,9 @@ Here are the technologies I work with regularly:
 ## 🎓 Certifications
 Here are some certifications that showcase my skills and knowledge:
 
-- **AWS Cloud Practitioner**  
-- **ISC2- CC**  
+- [**AWS Cloud Practitioner**](https://www.credly.com/badges/395f0f60-6de7-41e2-ac66-4030a420a80d/public_url)    
 - [**AWS re/Start Graduate**](https://www.credly.com/badges/cd3b292a-f0e5-4686-926f-d58006699ec7/public_url)
+- **ISC2- CC**
 - **DevOps Foundations (LinkedIn Learning)**  
 - **Python for Data Science and Machine Learning (Udemy)**  
 
