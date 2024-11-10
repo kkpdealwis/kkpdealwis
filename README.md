@@ -56,8 +56,6 @@ Here are some certifications that showcase my skills and knowledge:
 - [**AWS Cloud Quest: Cloud Practitioner**](https://www.credly.com/badges/263ac5b8-08c9-4766-9dbb-a1ef7d160325/public_url)
 - [**AWS Cloud Quest: Solutions Architect**](https://www.credly.com/badges/71149cc7-8196-4ae2-ba1f-b55d30066eeb/public_url)
 - **ISC2- CC**
-- **DevOps Foundations (LinkedIn Learning)**  
-- **Python for Data Science and Machine Learning (Udemy)**  
 
 ## 📫 How to Reach Me
 - LinkedIn: [pubudu de alwis](https://www.linkedin.com/in/pubudu-de-alwis-40ba44122/)
