@@ -1,64 +1,49 @@
+<h2 align="left">Hi 👋! My name is Pubudu De Alwis and I'm a DevOps Engineer, from Sri Lanka</h2>
 
+###
 
-# Hi there, I'm [Pubudu De Alwis] 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Welcome to my GitHub profile! I'm a passionate DevOps Engineer and Developer, with experience in automation, cloud technologies, and software development.
+###
 
-## 🚀 Current Projects
-Here are some of the projects I have worked on:
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### 1. [PayByCar (PBC) - Aeturnum](https://github.com/Verdeva)
-   - **Description:** A project focused on automating backups, email alerts, and deployments for a cloud-based application using ELK Stack, AWS SES, and Jenkins.
-   - **Technologies Used:** ELK Stack, AWS SES, MongoDB, Jenkins, Python
+###
 
-### 2. [AppiGo / Applova - Hsenid](https://github.com/your-repository-link)
-   - **Description:** E-commerce website with CI/CD pipelines, automation, and cloud deployments.
-   - **Technologies Used:** AWS, Ansible, Jenkins, Docker
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-### 3. [VNF API -  Hsenid](https://github.com/your-repository-link)
-   - **Description:** A Virtual Network Function (VNF) API to manage network services and resources.
-   - **Technologies Used:** Python, API Design
+###
 
-### 4. [PetStore API - Hsenid](https://github.com/your-repository-link)
-   - **Description:** REST API for managing a pet store system using Python Flask.
-   - **Technologies Used:** Python, Flask, REST APIs
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-## 🛠️ Languages & Technologies
-Here are the technologies I work with regularly:
+###
 
-- **Programming Languages:**  
-   - Python, Java, Bash, Groovy, HTML, CSS
+<br clear="both">
 
-- **DevOps & Cloud:**  
-   - Docker, Jenkins, Kubernetes, AWS (EC2, SES, Secrets Manager), OCI (VCN, Instances)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-- **Automation & Infrastructure:**  
-   - Ansible, Terraform
-
-- **Databases & Logs:**  
-   - MongoDB, ELK Stack, PostgreSQL, MySQL
- 
-- **Observability**
-  - Grafana, New Relic, ELK, Cloudwatch
-
-- **Others:**  
-   - GitLab CI/CD, REST APIs, Flask, Virtual Network Functions (VNF), Linux, Shell Scripting
-
-## 🎓 Education
-- **Bachelor's Degree in Computer System and Network Engineering**  
-   [Sri Lanka Institute of Information Technology] – [2023 March]
- 
-## 🎓 Certifications
-Here are some certifications that showcase my skills and knowledge:
-
-- [**AWS Cloud Practitioner**](https://www.credly.com/badges/395f0f60-6de7-41e2-ac66-4030a420a80d/public_url)    
-- [**AWS re/Start Graduate**](https://www.credly.com/badges/cd3b292a-f0e5-4686-926f-d58006699ec7/public_url)
-- [**AWS Cloud Quest: Cloud Practitioner**](https://www.credly.com/badges/263ac5b8-08c9-4766-9dbb-a1ef7d160325/public_url)
-- [**AWS Cloud Quest: Solutions Architect**](https://www.credly.com/badges/71149cc7-8196-4ae2-ba1f-b55d30066eeb/public_url)
-- **ISC2- CC**
-
-## 📫 How to Reach Me
-- LinkedIn: [pubudu de alwis](https://www.linkedin.com/in/pubudu-de-alwis-40ba44122/)
-- Email: [kkpdealwis93@gmail.com](mailto:kkpdealwis93@gmail.com)
-
-Thanks for stopping by! Feel free to explore my repositories and get in touch.
+###
